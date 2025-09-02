@@ -14,3 +14,5 @@ picoCTF{tr45h_51ng1ng_489dea9a}
 
 ## Takeaway:
 This challenge reinforced the importance of understanding how scripts obfuscate data and how to reverse that process. By breaking down the chr() calls into their ASCII equivalents, I saw how a password could be hidden in plain sight.
+
+testing
